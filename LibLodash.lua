@@ -18,6 +18,14 @@ local a={_VERSION='0.02'}if type(table.pack)~='function'then function table.pack
 
 -- enhanced debug
 function a.debug(...)
+
+    if a.isString(...) then
+        print(GREEN_FONT_COLOR:WrapTextInColorCode("#### Debug start"))
+        print(...)
+        print(GREEN_FONT_COLOR:WrapTextInColorCode("#### Debug end"))
+        return 
+    end
+
     local args = {...}
 
     print(GREEN_FONT_COLOR:WrapTextInColorCode("#### Debug start"))
