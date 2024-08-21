@@ -1,0 +1,6 @@
+package-as: LibLodash
+
+ignore:
+  - README.md
+
+enable-nolib-creation: no
