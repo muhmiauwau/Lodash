@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: LibLodash
+## Notes: Lodash for wow
+## Version: @project-version@
+## Author: Muhmiauwau
+### X-Curse-Project-ID: 
+
+LibLodash.lua
