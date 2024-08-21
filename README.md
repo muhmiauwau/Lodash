@@ -11,7 +11,7 @@ __Returns__
 
 __Arguments__
 method
-_(Optional)_ Return only the one method of the libary
+_(Optional)_ Return only the one method of the library
 
 
 

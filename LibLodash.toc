@@ -3,6 +3,6 @@
 ## Notes: Lodash for wow
 ## Version: @project-version@
 ## Author: Muhmiauwau
-### X-Curse-Project-ID: 
+##X-Curse-Project-ID: 1088110
 
 LibLodash.lua
