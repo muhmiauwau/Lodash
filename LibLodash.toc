@@ -1,5 +1,5 @@
 ## Interface: 110002
-## Title: LibLodash
+## Title: Lib: LibLodash
 ## Notes: Lodash for wow
 ## Version: @project-version@
 ## Author: Muhmiauwau
